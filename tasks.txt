@@ -4,3 +4,12 @@
 
 
 4. run for each company, each origin's first company should run and wait for a certain time in order for all companies to load, and then from there they can easily pull data one by one.
+
+
+
+////
+1. pipeline of origin. One full cycle for origin, data sending and move to the next origin.
+2. Run all origins
+3. Connect auth and origins
+4. Full endpoint
+5. telegram bot
