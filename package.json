@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node src/server.js",
-    "testOrigins": "node src/test/testGetAvailableOrigins.js"
+    "testGetOrigins": "node src/test/testGetAvailableOrigins.js",
+    "testSmartAnalyzeForOrigin": "node src/test/testSmartAnalyzeForOrigin.js"
   },
   "type": "module",
   "keywords": [],
