@@ -49,12 +49,13 @@ async function getCompanies(heroToken) {
       throw new Error("Invalid response structure from companies API");
     }
 
-    // Filter out companies that start with "zzz" (case insensitive)
-    const filteredCompanies = response.data.data.filter(company =>
-      !company.name.toLowerCase().startsWith("zzz")
-    );
+    // Filter out companies that start with "zzz" or "TEST" (case insensitive)
+    const filteredCompanies = response.data.data.filter(company => {
+      const lowerName = company.name.toLowerCase();
+      return !lowerName.startsWith("zzz") && !lowerName.startsWith("test");
+    });
 
-    console.log(`    Filtered ${filteredCompanies.length} companies (removed zzz companies)`);
+    console.log(`    Filtered ${filteredCompanies.length} companies (removed zzz and TEST companies)`);
 
     return filteredCompanies;
   } catch (error) {
