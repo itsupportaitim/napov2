@@ -1,0 +1,6 @@
+1. done
+2. done
+3. done
+
+
+4. run for each company, each origin's first company should run and wait for a certain time in order for all companies to load, and then from there they can easily pull data one by one.

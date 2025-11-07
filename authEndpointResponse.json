@@ -1,0 +1,336 @@
+{
+    "success": true,
+    "totalOrigins": 5,
+    "results": [
+        {
+            "origin": "HERO",
+            "companies": [
+                {
+                    "name": "CME TRUCKING LLC",
+                    "id": "Company:0C_FB3lFsp"
+                },
+                {
+                    "name": "TAVICO LLC",
+                    "id": "Company:AvQ2Y0VOyc8"
+                },
+                {
+                    "name": "SAKARA LLC",
+                    "id": "Company:NNuNxWUZGTR"
+                },
+                {
+                    "name": "KINGS GATE INC",
+                    "id": "Company:NvVnPBXubG"
+                },
+                {
+                    "name": "BALDAN TRANSPORT INC",
+                    "id": "Company:PldgLb2gyM"
+                },
+                {
+                    "name": "DAMY TRANSPORTATION LLC",
+                    "id": "Company:Z2wnnoMsP8"
+                },
+                {
+                    "name": "MOVE OPS",
+                    "id": "Company:bCdGbia_qMJ"
+                },
+                {
+                    "name": "HORIZEN LLC",
+                    "id": "Company:lBXhNw5AMmA"
+                },
+                {
+                    "name": "Draw Express inc",
+                    "id": "Company:lMvueESp0b"
+                },
+                {
+                    "name": "KG LINE GROUP INCORPORATED",
+                    "id": "Company:mU-5cvEWc2"
+                },
+                {
+                    "name": "DRAWX INC",
+                    "id": "Company:rkVl0WqlcH"
+                },
+                {
+                    "name": "JAY TORRES LLC",
+                    "id": "Company:xoT_hEMTIip"
+                }
+            ],
+            "companiesCount": 12
+        },
+        {
+            "origin": "HERO2",
+            "companies": [
+                {
+                    "name": "DLD LOGISTICS LLC",
+                    "id": "Company:-h60w4_DUy"
+                },
+                {
+                    "name": "Instant Trucking INC",
+                    "id": "Company:0Ude-whxaxq"
+                },
+                {
+                    "name": "Craiden Logistics Inc",
+                    "id": "Company:1BOOF7hChi"
+                },
+                {
+                    "name": "USA TRUCKLINK LLC",
+                    "id": "Company:5N29aZ_Hkh"
+                },
+                {
+                    "name": "ASIL FREIGHT LLC",
+                    "id": "Company:9YBytRj0SM"
+                },
+                {
+                    "name": "NK PERFORMANCE INC",
+                    "id": "Company:F6ZkJ8xQcL"
+                },
+                {
+                    "name": "ALLIANSAS INC",
+                    "id": "Company:I7GtIETQjh"
+                },
+                {
+                    "name": "VILA TRUCKING INC",
+                    "id": "Company:Op7vRQ8w3o"
+                },
+                {
+                    "name": "FREIGHT BRIDGE LLC",
+                    "id": "Company:P5nDm7NkXjt"
+                },
+                {
+                    "name": "United Freight Service Inc ",
+                    "id": "Company:QC2Z2DgKRn7"
+                },
+                {
+                    "name": "KEL TRANS INC",
+                    "id": "Company:Qo-RTBevsc"
+                },
+                {
+                    "name": "SANLUIS EXPRESS LLC",
+                    "id": "Company:QyIIOtKa0sQ"
+                },
+                {
+                    "name": "SCOTT CARTAGE CO INC",
+                    "id": "Company:Tm9NzrQlu9"
+                },
+                {
+                    "name": "AMPM TRANSPORT INC",
+                    "id": "Company:b05Fzywew7"
+                },
+                {
+                    "name": "AMG LINE LLC",
+                    "id": "Company:bmJsti5UUm"
+                },
+                {
+                    "name": "Lyndon Express LLC",
+                    "id": "Company:dGYDmZ9ESy"
+                },
+                {
+                    "name": "MZX INC",
+                    "id": "Company:fNSfGxJMyD"
+                },
+                {
+                    "name": "UZB TRANS INC",
+                    "id": "Company:hUkth1v3_H"
+                },
+                {
+                    "name": "E & R FREIGHT TRUCKING LLC",
+                    "id": "Company:nHr3jw7xY2"
+                },
+                {
+                    "name": "MARRX LLC",
+                    "id": "Company:q9otJV0iaxM"
+                },
+                {
+                    "name": "OWNERLER EXPRESS INC",
+                    "id": "Company:u59Hmcj_geq"
+                },
+                {
+                    "name": "GMR XPRESS INCORPORATED ",
+                    "id": "Company:uIX_hnS4yc"
+                },
+                {
+                    "name": "J&A PRESTIGE TRANSPORT SERVICES LLC",
+                    "id": "Company:yqgqZMtkqNv"
+                }
+            ],
+            "companiesCount": 23
+        },
+        {
+            "origin": "HERO3",
+            "companies": [
+                {
+                    "name": "USTA LOGISTICS INC",
+                    "id": "Company:-BsyGFojkL9"
+                },
+                {
+                    "name": "DLD LOGISTICS LLC",
+                    "id": "Company:-h60w4_DUy"
+                },
+                {
+                    "name": "TRANSNATIONAL EXPERTS INC",
+                    "id": "Company:-kaDj8l778"
+                },
+                {
+                    "name": "Javohir TRUCKING LLC",
+                    "id": "Company:4Qp4Cz0oiw"
+                },
+                {
+                    "name": "Sterling Express Inc",
+                    "id": "Company:4vlDNLVFv7"
+                },
+                {
+                    "name": "MAA USA EXPRESS ",
+                    "id": "Company:4voDjK3vO1"
+                },
+                {
+                    "name": "MGAL Corp",
+                    "id": "Company:8VvGSxT2el"
+                },
+                {
+                    "name": "Kuumade Trucking LLC",
+                    "id": "Company:CND57GnKxD"
+                },
+                {
+                    "name": "Acarsan Inc ",
+                    "id": "Company:C_cJB--lXN"
+                },
+                {
+                    "name": "ALLIANSAS INC",
+                    "id": "Company:I7GtIETQjh"
+                },
+                {
+                    "name": "Losev Trucking LLC",
+                    "id": "Company:MpuYqu2aiY"
+                },
+                {
+                    "name": "STEEL EXPRESS INC",
+                    "id": "Company:N8g1xSlyX8"
+                },
+                {
+                    "name": "VILA TRUCKING INC",
+                    "id": "Company:Op7vRQ8w3o"
+                },
+                {
+                    "name": "FROM POINT TO POINT INC",
+                    "id": "Company:PDneCueSpg"
+                },
+                {
+                    "name": "ZR Trans LLC",
+                    "id": "Company:UhkL0zg6Cb"
+                },
+                {
+                    "name": "MAKGA INC",
+                    "id": "Company:dw6lZ7Ciii5"
+                },
+                {
+                    "name": "J&P LOGISTICS USA INC.",
+                    "id": "Company:eZlXKEDqqc"
+                },
+                {
+                    "name": "MZX INC",
+                    "id": "Company:fNSfGxJMyD"
+                },
+                {
+                    "name": "7 LUV Transporting inc",
+                    "id": "Company:jizImaERsX"
+                },
+                {
+                    "name": "Truckzilla INC",
+                    "id": "Company:jmhXdrLmni"
+                },
+                {
+                    "name": "UK Express INC",
+                    "id": "Company:ny4gptXZ6K"
+                },
+                {
+                    "name": "JMI TRANSPORT LLC",
+                    "id": "Company:rErfywIPSR"
+                },
+                {
+                    "name": "EMPOWER LOGISTIC INC",
+                    "id": "Company:x_HdFcIOjY"
+                },
+                {
+                    "name": "KEL LOGISTICS INC",
+                    "id": "Company:xnNDqVYA3D"
+                }
+            ],
+            "companiesCount": 24
+        },
+        {
+            "origin": "HERO4",
+            "companies": [
+                {
+                    "name": "JCR Transportation LLC",
+                    "id": "Company:CfQqJMcWKa"
+                },
+                {
+                    "name": "JB RUNNER LLC",
+                    "id": "Company:DJIDivQEjm6"
+                },
+                {
+                    "name": "TUTASH EXPRESS INC",
+                    "id": "Company:dJJRvbVHuu"
+                }
+            ],
+            "companiesCount": 3
+        },
+        {
+            "origin": "HERO5",
+            "companies": [
+                {
+                    "name": "USTA LOGISTICS INC",
+                    "id": "Company:-BsyGFojkL9"
+                },
+                {
+                    "name": "Four Ways Logistics II Inc",
+                    "id": "Company:-cYtDkGyIn"
+                },
+                {
+                    "name": "BARRE LOGISTICS LLC",
+                    "id": "Company:BTW2Ntbl9R"
+                },
+                {
+                    "name": "JCR Transportation LLC",
+                    "id": "Company:CfQqJMcWKa"
+                },
+                {
+                    "name": "AJS Express LLC",
+                    "id": "Company:Gu9rd3TcMo"
+                },
+                {
+                    "name": "Shiba Trucking LLC",
+                    "id": "Company:I3BCgR0gMX"
+                },
+                {
+                    "name": "Heyla Transport LLC",
+                    "id": "Company:IlFHgtBnJtz"
+                },
+                {
+                    "name": "RAYNE 2 LOGISTICS INC",
+                    "id": "Company:MC_NdSFTsn"
+                },
+                {
+                    "name": "ALMA CARRIERS CORP",
+                    "id": "Company:SilR0HhE9-e"
+                },
+                {
+                    "name": "MAKGA INC",
+                    "id": "Company:dw6lZ7Ciii5"
+                },
+                {
+                    "name": "Fergana Freight Inc",
+                    "id": "Company:e-YZVD_os_"
+                },
+                {
+                    "name": "Draw Express inc",
+                    "id": "Company:lMvueESp0b"
+                },
+                {
+                    "name": "Chuiko Logistics Corporation",
+                    "id": "Company:nmlP5Cyb9s"
+                }
+            ],
+            "companiesCount": 13
+        }   
+    ]
+}
