@@ -223,12 +223,36 @@ const ERROR_FILTERS = [
     match: (errorMessage) => errorMessage && errorMessage.trim() === 'MISSING INTERMEDIATE ERROR',
     key: 'missingIntermediateError'
   },
-  { 
+  {
     name: 'INCORRECT STATUS PLACEMENT ERROR',
     match: (errorMessage) => errorMessage && errorMessage.trim() === 'INCORRECT STATUS PLACEMENT ERROR',
     key: 'incorrectStatusPlacementError'
   },
-  
+  {
+    name: 'THE SPEED WAS MUCH HIGHER THAN THE SPEED LIMIT IN',
+    match: (errorMessage) => errorMessage && errorMessage.trim().startsWith('THE SPEED WAS MUCH HIGHER THAN THE SPEED LIMIT IN'),
+    key: 'speedMuchHigherThanLimit'
+  },
+  {
+    name: 'THE SPEED WAS HIGHER THAN THE SPEED',
+    match: (errorMessage) => errorMessage && errorMessage.trim().startsWith('THE SPEED WAS HIGHER THAN THE SPEED'),
+    key: 'speedHigherThanLimit'
+  },
+  {
+    name: 'EVENT HAS MANUAL LOCATION',
+    match: (errorMessage) => errorMessage && errorMessage.trim() === 'EVENT HAS MANUAL LOCATION',
+    key: 'eventHasManualLocation'
+  },
+  {
+    name: 'NO POWER UP ERROR',
+    match: (errorMessage) => errorMessage && errorMessage.trim() === 'NO POWER UP ERROR',
+    key: 'noPowerUpError'
+  },
+  {
+    name: 'UNIDENTIFIED DRIVER EVENT',
+    match: (errorMessage) => errorMessage && errorMessage.trim() === 'UNIDENTIFIED DRIVER EVENT',
+    key: 'unidentifiedDriverEvent'
+  },
 ];
 
 function filterErrorMessages(results) {
