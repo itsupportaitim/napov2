@@ -1,31 +1,32 @@
-
+import dotenv from 'dotenv';
+dotenv.config();
 
 const heroOrigins = [
     {
-        origin: "HERO",
-        email: "herosupport1@gmail.com",
-        password: "HeroSupport12025!"
+        origin: process.env.ORIGIN1,
+        email: process.env.EMAIL1,
+        password: process.env.PASSWORD1
     },
     {
-        origin: "HERO2",
-        email: "aitim2@gmail.com",
-        password: "Herolog22025!"
+        origin: process.env.ORIGIN2,
+        email: process.env.EMAIL2,
+        password: process.env.PASSWORD2
     },
     {
-        origin: "HERO3",
-        email: "aitim3@gmail.com",
-        password: "Herolog3@2025!"
+        origin: process.env.ORIGIN3,
+        email: process.env.EMAIL3,
+        password: process.env.PASSWORD3
     },
     {
-        origin: "HERO4",
-        email: "aitimtk@gmail.com",
-        password: "Herotut2025!"
+        origin: process.env.ORIGIN4,
+        email: process.env.EMAIL4,
+        password: process.env.PASSWORD4
     },
     {
-        origin: "HERO5",
-        email: "bishkek@heroeld.com",
-        password: "Herobish5!"
+        origin: process.env.ORIGIN5,
+        email: process.env.EMAIL5,
+        password: process.env.PASSWORD5
     },
-]
+];
 
 export { heroOrigins };
