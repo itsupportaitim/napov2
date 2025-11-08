@@ -23,7 +23,7 @@ async function smartAnalyze(origin, companyId) {
         "Content-Type": "application/json",
         Authorization: `${fortexAuth}`,
       },
-      timeout: 40000, // 40 second timeout
+      timeout: 120000, // 120 second timeout
     });
 
     console.log(`Smart analyze data received for ${companyId}`);

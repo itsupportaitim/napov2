@@ -1,0 +1,413 @@
+{
+  "summary": {
+    "origin": "HERO2",
+    "totalCompanies": 23,
+    "successful": 23,
+    "failed": 0,
+    "successRate": "100.00%",
+    "executionTime": "1.57s",
+    "averageTimePerCompany": "0.07s",
+    "processedAt": "2025-11-08T00:18:18.997Z",
+    "filtersApplied": [
+      "SEQUENTIAL ID BREAK WARNING",
+      "ENGINE HOURS HAVE CHANGED AFTER SHUT DOWN WARNING",
+      "ODOMETER ERROR",
+      "DIAGNOSTIC EVENT",
+      "LOCATION CHANGED ERROR",
+      "INCORRECT INTERMEDIATE PLACEMENT ERROR",
+      "ENGINE HOURS WARNING",
+      "NO SHUT DOWN ERROR",
+      "EXCESSIVE LOG IN WARNING",
+      "EXCESSIVE LOG OUT WARNING",
+      "TWO IDENTICAL STATUSES ERROR",
+      "DRIVING ORIGIN WARNING",
+      "NO DATA IN ODOMETER OR ENGINE HOURS ERROR",
+      "LOCATION ERROR",
+      "LOCATION DID NOT CHANGE WARNING",
+      "MISSING INTERMEDIATE ERROR",
+      "INCORRECT STATUS PLACEMENT ERROR",
+      "THE SPEED WAS MUCH HIGHER THAN THE SPEED LIMIT IN",
+      "THE SPEED WAS HIGHER THAN THE SPEED",
+      "EVENT HAS MANUAL LOCATION",
+      "NO POWER UP ERROR",
+      "UNIDENTIFIED DRIVER EVENT"
+    ]
+  },
+  "successfulResults": [
+    {
+      "status": "success",
+      "companyName": "DLD LOGISTICS LLC",
+      "companyId": "Company:-h60w4_DUy",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "Instant Trucking INC",
+      "companyId": "Company:0Ude-whxaxq",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "Craiden Logistics Inc",
+      "companyId": "Company:1BOOF7hChi",
+      "data": [
+        {
+          "driverName": "Israel Amoz Amozah",
+          "logs": [
+            {
+              "eventCode": "DS_D",
+              "errorTime": "November 07",
+              "errorMessage": " DRIVING VIOLATION AT Nov 07, 03:43:00 pm"
+            },
+            {
+              "eventCode": "DS_D",
+              "errorTime": "November 07",
+              "errorMessage": " 14 HOURS VIOLATION AT Nov 07, 03:43:47 pm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "status": "success",
+      "companyName": "USA TRUCKLINK LLC",
+      "companyId": "Company:5N29aZ_Hkh",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "ASIL FREIGHT LLC",
+      "companyId": "Company:9YBytRj0SM",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "NK PERFORMANCE INC",
+      "companyId": "Company:F6ZkJ8xQcL",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "ALLIANSAS INC",
+      "companyId": "Company:I7GtIETQjh",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "VILA TRUCKING INC",
+      "companyId": "Company:Op7vRQ8w3o",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "FREIGHT BRIDGE LLC",
+      "companyId": "Company:P5nDm7NkXjt",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "United Freight Service Inc ",
+      "companyId": "Company:QC2Z2DgKRn7",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "KEL TRANS INC",
+      "companyId": "Company:Qo-RTBevsc",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "SANLUIS EXPRESS LLC",
+      "companyId": "Company:QyIIOtKa0sQ",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "SCOTT CARTAGE CO INC",
+      "companyId": "Company:Tm9NzrQlu9",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "AMPM TRANSPORT INC",
+      "companyId": "Company:b05Fzywew7",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "AMG LINE LLC",
+      "companyId": "Company:bmJsti5UUm",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "Lyndon Express LLC",
+      "companyId": "Company:dGYDmZ9ESy",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "MZX INC",
+      "companyId": "Company:fNSfGxJMyD",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "UZB TRANS INC",
+      "companyId": "Company:hUkth1v3_H",
+      "data": [
+        {
+          "driverName": "Naimjon Norboev",
+          "logs": [
+            {
+              "eventCode": "DS_ON",
+              "errorTime": "November 07",
+              "errorMessage": " 14 HOURS VIOLATION AT Nov 07, 02:21:34 pm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "status": "success",
+      "companyName": "E & R FREIGHT TRUCKING LLC",
+      "companyId": "Company:nHr3jw7xY2",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "MARRX LLC",
+      "companyId": "Company:q9otJV0iaxM",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "OWNERLER EXPRESS INC",
+      "companyId": "Company:u59Hmcj_geq",
+      "data": [
+        {
+          "driverName": "Alisher Alibaev",
+          "logs": [
+            {
+              "eventCode": "DS_D",
+              "errorTime": "November 07",
+              "errorMessage": " DRIVING VIOLATION AT Nov 07, 05:08:21 pm"
+            }
+          ]
+        },
+        {
+          "driverName": "Burkut Amirbek uulu",
+          "logs": [
+            {
+              "eventCode": "DS_D",
+              "errorTime": "November 07",
+              "errorMessage": " BREAK VIOLATION AT Nov 07, 11:29:17 am"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "status": "success",
+      "companyName": "GMR XPRESS INCORPORATED ",
+      "companyId": "Company:uIX_hnS4yc",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "J&A PRESTIGE TRANSPORT SERVICES LLC",
+      "companyId": "Company:yqgqZMtkqNv",
+      "data": []
+    }
+  ],
+  "failedResults": [],
+  "allResults": [
+    {
+      "status": "success",
+      "companyName": "DLD LOGISTICS LLC",
+      "companyId": "Company:-h60w4_DUy",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "Instant Trucking INC",
+      "companyId": "Company:0Ude-whxaxq",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "Craiden Logistics Inc",
+      "companyId": "Company:1BOOF7hChi",
+      "data": [
+        {
+          "driverName": "Israel Amoz Amozah",
+          "logs": [
+            {
+              "eventCode": "DS_D",
+              "errorTime": "November 07",
+              "errorMessage": " DRIVING VIOLATION AT Nov 07, 03:43:00 pm"
+            },
+            {
+              "eventCode": "DS_D",
+              "errorTime": "November 07",
+              "errorMessage": " 14 HOURS VIOLATION AT Nov 07, 03:43:47 pm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "status": "success",
+      "companyName": "USA TRUCKLINK LLC",
+      "companyId": "Company:5N29aZ_Hkh",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "ASIL FREIGHT LLC",
+      "companyId": "Company:9YBytRj0SM",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "NK PERFORMANCE INC",
+      "companyId": "Company:F6ZkJ8xQcL",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "ALLIANSAS INC",
+      "companyId": "Company:I7GtIETQjh",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "VILA TRUCKING INC",
+      "companyId": "Company:Op7vRQ8w3o",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "FREIGHT BRIDGE LLC",
+      "companyId": "Company:P5nDm7NkXjt",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "United Freight Service Inc ",
+      "companyId": "Company:QC2Z2DgKRn7",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "KEL TRANS INC",
+      "companyId": "Company:Qo-RTBevsc",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "SANLUIS EXPRESS LLC",
+      "companyId": "Company:QyIIOtKa0sQ",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "SCOTT CARTAGE CO INC",
+      "companyId": "Company:Tm9NzrQlu9",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "AMPM TRANSPORT INC",
+      "companyId": "Company:b05Fzywew7",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "AMG LINE LLC",
+      "companyId": "Company:bmJsti5UUm",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "Lyndon Express LLC",
+      "companyId": "Company:dGYDmZ9ESy",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "MZX INC",
+      "companyId": "Company:fNSfGxJMyD",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "UZB TRANS INC",
+      "companyId": "Company:hUkth1v3_H",
+      "data": [
+        {
+          "driverName": "Naimjon Norboev",
+          "logs": [
+            {
+              "eventCode": "DS_ON",
+              "errorTime": "November 07",
+              "errorMessage": " 14 HOURS VIOLATION AT Nov 07, 02:21:34 pm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "status": "success",
+      "companyName": "E & R FREIGHT TRUCKING LLC",
+      "companyId": "Company:nHr3jw7xY2",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "MARRX LLC",
+      "companyId": "Company:q9otJV0iaxM",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "OWNERLER EXPRESS INC",
+      "companyId": "Company:u59Hmcj_geq",
+      "data": [
+        {
+          "driverName": "Alisher Alibaev",
+          "logs": [
+            {
+              "eventCode": "DS_D",
+              "errorTime": "November 07",
+              "errorMessage": " DRIVING VIOLATION AT Nov 07, 05:08:21 pm"
+            }
+          ]
+        },
+        {
+          "driverName": "Burkut Amirbek uulu",
+          "logs": [
+            {
+              "eventCode": "DS_D",
+              "errorTime": "November 07",
+              "errorMessage": " BREAK VIOLATION AT Nov 07, 11:29:17 am"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "status": "success",
+      "companyName": "GMR XPRESS INCORPORATED ",
+      "companyId": "Company:uIX_hnS4yc",
+      "data": []
+    },
+    {
+      "status": "success",
+      "companyName": "J&A PRESTIGE TRANSPORT SERVICES LLC",
+      "companyId": "Company:yqgqZMtkqNv",
+      "data": []
+    }
+  ]
+}

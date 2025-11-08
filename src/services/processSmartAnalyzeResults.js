@@ -287,9 +287,9 @@ function filterErrorMessages(results) {
 }
 
 // Apply filters to all result arrays
-// filterErrorMessages(data.successfulResults);
+filterErrorMessages(data.successfulResults);
 filterErrorMessages(data.allResults);
-// filterErrorMessages(data.failedResults);
+filterErrorMessages(data.failedResults);
 
 // Display filter statistics
 console.log('  Filters applied:');

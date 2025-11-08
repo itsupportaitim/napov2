@@ -164,7 +164,7 @@ async function smartAnalyzeForOrigin(origin, options = {}) {
         const timestamp = new Date().toISOString().replace(/[:.]/g, "-");
         const outputFile = path.join(
           outputDirPath,
-          `${origin}_smart_analyze_${timestamp}.json`
+          `${origin}_smart_analyze.json`
         );
 
         const outputData = {
