@@ -18,10 +18,6 @@
                     "id": "Company:NNuNxWUZGTR"
                 },
                 {
-                    "name": "KINGS GATE INC",
-                    "id": "Company:NvVnPBXubG"
-                },
-                {
                     "name": "BALDAN TRANSPORT INC",
                     "id": "Company:PldgLb2gyM"
                 },
@@ -38,23 +34,11 @@
                     "id": "Company:lBXhNw5AMmA"
                 },
                 {
-                    "name": "Draw Express inc",
-                    "id": "Company:lMvueESp0b"
-                },
-                {
-                    "name": "KG LINE GROUP INCORPORATED",
-                    "id": "Company:mU-5cvEWc2"
-                },
-                {
-                    "name": "DRAWX INC",
-                    "id": "Company:rkVl0WqlcH"
-                },
-                {
                     "name": "JAY TORRES LLC",
                     "id": "Company:xoT_hEMTIip"
                 }
             ],
-            "companiesCount": 12
+            "companiesCount": 8
         },
         {
             "origin": "HERO2",
@@ -170,10 +154,6 @@
                     "id": "Company:-kaDj8l778"
                 },
                 {
-                    "name": "Javohir TRUCKING LLC",
-                    "id": "Company:4Qp4Cz0oiw"
-                },
-                {
                     "name": "Sterling Express Inc",
                     "id": "Company:4vlDNLVFv7"
                 },
@@ -254,7 +234,7 @@
                     "id": "Company:xnNDqVYA3D"
                 }
             ],
-            "companiesCount": 24
+            "companiesCount": 23
         },
         {
             "origin": "HERO4",
@@ -266,13 +246,9 @@
                 {
                     "name": "JB RUNNER LLC",
                     "id": "Company:DJIDivQEjm6"
-                },
-                {
-                    "name": "TUTASH EXPRESS INC",
-                    "id": "Company:dJJRvbVHuu"
                 }
             ],
-            "companiesCount": 3
+            "companiesCount": 2
         },
         {
             "origin": "HERO5",
@@ -322,15 +298,11 @@
                     "id": "Company:e-YZVD_os_"
                 },
                 {
-                    "name": "Draw Express inc",
-                    "id": "Company:lMvueESp0b"
-                },
-                {
                     "name": "Chuiko Logistics Corporation",
                     "id": "Company:nmlP5Cyb9s"
                 }
             ],
-            "companiesCount": 13
+            "companiesCount": 12
         }   
     ]
 }

@@ -19,4 +19,4 @@
 
 current manual stuff:
 1. run in shell: "node src/test/testSmartAnalyzeForOrigin.js" file that generates json in results 
-2. run in shell: "node src/services/processSmartAnalyzeResults.js src/services/results/HERO2_smart_analyze_2025-11-07T21-02-08-898Z.json"
+2. run in shell: "node src/services/processSmartAnalyzeResults.js src/services/results/HERO2_smart_analyze.json"
