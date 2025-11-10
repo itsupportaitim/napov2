@@ -5,6 +5,7 @@ import { heroOrigins } from "./mock/heroOrigins.js";
 import { runOriginAnalysisPipeline, quickAnalyze } from "./services/originAnalysisPipeline.js";
 import { cleanupResultFiles, cleanupOldResults } from "./utils/cleanupResults.js";
 import { runOriginAnalysisWithRetry, quickRetryAnalyze } from "./services/originAnalysisWithRetry.js";
+import { startCronScheduler } from "./services/cronAnalyzer.js";
 
 dotenv.config();
 
@@ -413,6 +414,14 @@ app.listen(PORT, () => {
   console.log(`  Cleanup:       GET  http://localhost:${PORT}/api/cleanup`);
   console.log(`  Cleanup:       DEL  http://localhost:${PORT}/api/cleanup`);
   console.log(`${'='.repeat(80)}\n`);
+
+  // Initialize cron scheduler
+  startCronScheduler({
+    schedule: process.env.CRON_SCHEDULE || "0 */2 * * *",
+    webhookUrl: process.env.CRON_WEBHOOK_URL,
+    enabled: process.env.CRON_ENABLED === "true",
+    runOnStart: process.env.CRON_RUN_ON_START === "true"
+  });
 });
 
 
